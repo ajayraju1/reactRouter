@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.nav-con {
+  padding: 0 20px;
+  height: 10vh;
+}
+
+.nav-logo-txt-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  list-style: none;
+}
+
+.logo-con {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.nav-logo {
+  height: 40px;
+}
+
+.nav-txt-con {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.nav-link {
+  color: #12022f;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 20px;
+}

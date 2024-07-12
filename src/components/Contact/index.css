@@ -1,0 +1,17 @@
+.contact-con {
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.contact-logo {
+  height: 200px;
+}
+
+.contact-heading {
+  color: #6d396b;
+  font-size: 40px;
+}
