@@ -1,5 +1,7 @@
 import './index.css'
+
 const site = 'https://ajayreactrouter.ccbp.tech/'
+
 const Home = () => (
   <div className="home-con">
     <img
